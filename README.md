@@ -2,6 +2,8 @@
 
 Bidirectional parameter sync between TouchDesigner and web browser via WebSocket.
 
+Tested with TouchDesigner 2025.31550
+
 ## Structure
 
 ```
