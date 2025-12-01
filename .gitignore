@@ -1,0 +1,6 @@
+# TouchDesigner crash auto-save files
+CrashAutoSave.*.toe
+
+# Claude Code
+.claude/
+CLAUDE.md
