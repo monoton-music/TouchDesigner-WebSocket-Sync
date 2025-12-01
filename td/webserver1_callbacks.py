@@ -84,7 +84,7 @@ def onWebSocketReceiveText(dat, client, data):
 			if target and hasattr(target.par, name):
 				setattr(target.par, name, float(value))
 	except Exception as e:
-		print(f'WebSocket error: {e}')
+		debug(f'WebSocket error: {e}')
 
 def onWebSocketReceiveBinary(dat, client, data):
 	return
