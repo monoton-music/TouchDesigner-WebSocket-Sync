@@ -19,7 +19,7 @@ Tested with TouchDesigner 2025.31550
 
 1. Clone this repository and keep the folder structure as-is
 2. Open `example.toe` in TouchDesigner
-3. The Web Browser COMP in TD may not work properly. If so, open http://localhost:9980 in your browser instead
+3. Open http://localhost:9980 in your browser
 
 ## Setup (for custom projects)
 
